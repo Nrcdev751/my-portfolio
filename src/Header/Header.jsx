@@ -6,7 +6,7 @@ function Header(){
                 <div className="max-w-screen-xl  mx-auto p-4 ">
                     <div className="flex  flex-col-reverse md:flex-row">
                         <div className="title ">
-                            <h1 className="text-2xl md:text-3xl lg:text-5xl  text-start  font-bold mt-5"><span className="font-bold bg-gradient-to-r from-cyan-500 to-blue-500 text-transparent bg-clip-text ">สวัสดีครับ</span> ผมณรงค์ชัย</h1>
+                            <h1 className="text-2xl md:text-3xl lg:text-5xl  text-start  font-bold mt-5"><span className="font-bold bg-gradient-to-r from-cyan-500 to-blue-500 text-transparent bg-clip-text ">สวัสดีครับ</span> ผมแมวน้อย</h1>
                             <p className="mt-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio aliquid numquam cupiditate, exercitationem accusantium nobis ut vero, consectetur repellendus tempore sunt itaque incidunt libero rerum.</p>
                             <div className="flex mt-5">
                                 <button className=" btn  text-2xl  md:btn-lg  xl:text-3xl lg:text-3xl w-full md:w-1/2   bg-gradient-to-r from-cyan-500 to-blue-500 transition  text-white ">
