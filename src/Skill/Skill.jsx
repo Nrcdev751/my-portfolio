@@ -2,7 +2,7 @@ function Skill(){
     return(
         <>
       
-        <section className="bg-[url('./assets/bg-skill.jpg')] object-cover p-5 relative w-full">
+        <section id="skill" className="skill bg-[url('./assets/bg-skill.jpg')] object-cover p-5 relative w-full">
            <div className="max-w-screen-xl  mx-auto md:p-4 justify-center z-20" id="project">
                 <h1 className="text-4xl font-bold text-center mb-5 text-white">ทักษะและความสามารถ</h1>
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 justify-center place-items-center  mt-10 ">

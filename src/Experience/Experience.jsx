@@ -7,7 +7,7 @@ import activity_5 from '../assets/activity_5.jpg'
 function Experience() {
     return(
         <>
-            <section className="about bg-neutral-100 md:p-10">
+            <section id="education" className="education about bg-neutral-100 md:p-10">
                 <div className="max-w-screen-xl  mx-auto">
                 <div className="bg-gradient-to-r from-cyan-500 to-blue-500">
                     <div className="grid grid-cols-1 reversed md:grid-cols-2 -order-2 " >

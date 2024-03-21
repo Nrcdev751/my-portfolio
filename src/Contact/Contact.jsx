@@ -1,7 +1,7 @@
 function Contact(){
     return(
         <>
-             <section className="about bg-neutral-100 md:p-10">
+             <section className="contact about bg-neutral-100 md:p-10">
                 <div className="max-w-screen-xl  mx-auto">
                     <div className="grid grid-cols-1 reversed md:grid-cols-2 -order-2 " >
                         <div className="about-describe p-10 bg-white shadow-xl flex justify-center flex-col">

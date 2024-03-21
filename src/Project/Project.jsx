@@ -10,7 +10,7 @@ import portfolio_9 from '../assets/portfolio9.png'
 function Project (){
     return(
         <>
-        <section className="bg-white shadow md:p-5">
+        <section id="portfolio" className="portfolio bg-white shadow md:p-5">
            <div className="max-w-screen-xl  mx-auto md:p-4 justify-center" id="project">
                 <h1 className="text-4xl font-bold text-center mt-5 mb-5">ผลงานต่าง ๆ</h1>
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 place-items-center ">
