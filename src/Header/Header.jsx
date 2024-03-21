@@ -15,7 +15,7 @@ function Header(){
                                 </button>
                             
                             </div>
-                            <div className="group-button mt-5 ">
+                            <div className="group-button mt-10 ">
                                 <button className="btn btn-circle btn-outline">
                                     <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12" /></svg>
                                 </button>
@@ -31,7 +31,8 @@ function Header(){
                             <img src={profile} alt="" />
                         </div>
                     </div>
-                        <div className="title-stack mt-5">
+                   
+                        <div className="title-stack mt-20">
                             <p className="text-3xl font-bold">Tech-stack |</p>
                         </div>
                 </div>
