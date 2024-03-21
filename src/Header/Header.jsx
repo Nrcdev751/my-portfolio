@@ -2,7 +2,7 @@ import profile from '../assets/header_pic.jpg'
 function Header(){
     return(
         <>
-            <section className="header h-screen flex justify-center items-center ">
+            <section className="header h-screen flex justify-center items-center bg-blue-100/25">
                 <div className="max-w-screen-xl  mx-auto p-4 ">
                     <div className="flex  flex-col-reverse md:flex-row">
                         <div className="title ">
