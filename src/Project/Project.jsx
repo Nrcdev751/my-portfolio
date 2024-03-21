@@ -6,6 +6,7 @@ import portfolio_6 from '../assets/portfolio6.png'
 import portfolio_7 from '../assets/portfolio7.png'
 import portfolio_8 from '../assets/portfolio8.png'
 import portfolio_9 from '../assets/portfolio9.png'
+
 function Project (){
     return(
         <>
@@ -22,12 +23,13 @@ function Project (){
                                 </h2>
                                 <p>เว็บแอพพลิเคชั่นกระทู้สำหรับผู้สูงอายุที่มีความเหงาและมีที่ปรึกษาคอยให้คำปรึกษาตลอดเวลา ๆ </p>
                                 <div className="card-actions justify-end">
-                                    <div className="badge bg-red-100">Fashion</div> 
-                                    <div className="badge ">Products</div>
+                                    <div className="badge bg-red-100">PHP</div> 
+                                    <div className="badge ">Bootstrap</div>
                                 </div>
                                 <div className="card-btn flex  mt-2">
                                     <a href="https://nrc-dev.com/teamnew/index.php" target="_blank" className="btn btn-block  bg-gradient-to-r from-cyan-500 to-blue-500 text-white ">
-                                    <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" /></svg>
+                                    <svg className="h-5 w-5 fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg>
+                                   
                                     เข้าชม
                                     </a>
                                 </div>
@@ -42,12 +44,11 @@ function Project (){
                                 </h2>
                                 <p>เว็บแอพลิเคชั่นสำหรับสร้างสิ่งที่ต้องทำภายในวันนั้นโดยผ่านการออกแบบในธีม borntodev พัฒนาโดย React JS framework</p>
                                 <div className="card-actions justify-end">
-                                    <div className="badge bg-red-100">Fashion</div> 
-                                    <div className="badge ">Products</div>
+                                    <div className="badge bg-red-100">React</div> 
                                 </div>
                                 <div className="card-btn flex  mt-2">
-                                    <a href="https://nrc-dev.com/teamnew/index.php" target="_blank" className="btn btn-block  bg-gradient-to-r from-cyan-500 to-blue-500 text-white ">
-                                    <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" /></svg>
+                                    <a href="https://complete-to-do-list-app.vercel.app/" target="_blank" className="btn btn-block  bg-gradient-to-r from-cyan-500 to-blue-500 text-white ">
+                                    <svg className="h-5 w-5 fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg>
                                     เข้าชม
                                     </a>
                                 </div>
@@ -62,12 +63,12 @@ function Project (){
                                 </h2>
                                 <p>ระบบรับฟังความคิดเห็นจากน้อง ๆ ภายในแผนกวิชาเพื่อนำความคิดเห็นต่าง ๆ ส่งไปยังคุณครูภายในแผนกโดยใช้ระบบ Php + Line Notify</p>
                                 <div className="card-actions justify-end">
-                                    <div className="badge bg-red-100">Fashion</div> 
-                                    <div className="badge ">Products</div>
+                                    <div className="badge bg-red-100">PHP</div> 
+                                    <div className="badge ">Bootstrap</div>
                                 </div>
                                 <div className="card-btn flex  mt-2">
-                                    <a href="https://nrc-dev.com/teamnew/index.php" target="_blank" className="btn btn-block  bg-gradient-to-r from-cyan-500 to-blue-500 text-white ">
-                                    <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" /></svg>
+                                    <a href="https://nrc-dev.com/faq.php" target="_blank" className="btn btn-block  bg-gradient-to-r from-cyan-500 to-blue-500 text-white ">
+                                    <svg className="h-5 w-5 fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg>
                                     เข้าชม
                                     </a>
                                 </div>

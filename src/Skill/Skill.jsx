@@ -9,7 +9,7 @@ function Skill(){
                     <div className="shadow w-full m-3 md:w-96 bg-white">
                         <div className="card-body ">
                             <h2 className="card-title">สร้างเว็บไซต์ตามดีไซน์</h2>
-                            <p>If a dog chews shoes whose shoes does he choose?</p>
+                            <p>สามารถนำเอาดีไซน์ต่าง ๆ ใน Figma หรือ Adobe XD มาทำให้อยู่ในรูปแบบของเว็บไซต์และรองรับการแสดงผลจอมือถือ</p>
                             <div className="card-actions justify-end">
                             </div>
                         </div>
@@ -18,16 +18,16 @@ function Skill(){
                     <div className="shadow w-full m-3 md:w-96 bg-white">
                         <div className="card-body ">
                             <h2 className="card-title">สร้างเว็บไซต์มีระบบหลังบ้านพร้อมอัพขึ้นเซิร์ฟเวอร์</h2>
-                            <p>If a dog chews shoes whose shoes does he choose?</p>
+                            <p>มีบริการระบบการจองห้องพัก ระบบยืมอุปกรณ์ ระบบเช็คชื่อ พร้อม Admin ที่สามารถจัดการส่วนหน้าบ้านและหลังบ้านด้วย PHP + MySQL</p>
                             <div className="card-actions justify-end">
                             </div>
                         </div>
                     </div>
                     
                     <div className="shadow w-full m-3 md:w-96 bg-white">
-                        <div className="card-body ">
+                        <div className="card-body">
                             <h2 className="card-title">ออกแบบ Ui/Ux</h2>
-                            <p>If a dog chews shoes whose shoes does he choose?</p>
+                            <p>ช่วยออกแบบหน้าตาของระบบตามบลีฟที่ลูกค้าต้องการเพื่อให้เกิดความง่ายต่อการนำมาใช้งานจริง</p>
                             <div className="card-actions justify-end">
                             </div>
                         </div>
@@ -37,7 +37,7 @@ function Skill(){
                         <div className="shadow w-full m-3 md:w-96  bg-white">
                             <div className="card-body ">
                                 <h2 className="card-title">งานออกแบบสื่อสิ่งพิมพ์</h2>
-                                <p>If a dog chews shoes whose shoes does he choose?</p>
+                                <p>รับออกแบบงานกราฟิก เช่น โปสเตอร์ หนังสือ หรือแผ่นพับรวมถึงเกียรติบัตรต่าง ๆ </p>
                                 <div className="card-actions justify-end">
                                 </div>
                             </div>
@@ -45,7 +45,7 @@ function Skill(){
                         <div className="shadow w-full m-3 md:w-96  bg-white">
                             <div className="card-body ">
                                 <h2 className="card-title">ตัดต่อวิดีโอ</h2>
-                                <p>If a dog chews shoes whose shoes does he choose?</p>
+                                <p>รับงานตัดต่อคลิปวิดีโอโปรโมท สารคดี และอื่น ๆ </p>
                                 <div className="card-actions justify-end">
                                 </div>
                             </div>

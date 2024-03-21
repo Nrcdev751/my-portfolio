@@ -17,3 +17,21 @@ h6 {
   font-size: inherit;
   font-weight: inherit;
 }
+
+::-webkit-scrollbar {
+  width: 12px; /* width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* color of the track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #44ddf8; /* color of the scrollbar thumb */
+  border-radius: 6px; /* roundness of the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #238db8; /* color of the scrollbar thumb on hover */
+}
+
