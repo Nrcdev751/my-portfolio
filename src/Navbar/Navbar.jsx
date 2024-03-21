@@ -6,9 +6,9 @@ import { Link, animateScroll as scroll } from 'react-scroll';
 
 function Navbar() {
   return (
-    <nav className={`bg-white dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600 ${styles.navbar}`}>
+    <nav className={`bg-white dark:bg-gray-900 md:fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600 ${styles.navbar}`}>
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-        <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
+        <a  className="flex items-center space-x-3 rtl:space-x-reverse">
           <img src={logo} className="h-8" alt="Flowbite Logo" />
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">arongchai</span>
         </a>

@@ -51,9 +51,10 @@ function Experience() {
                             <div className="school-group mt-5">
                                 <div className="title-flex flex items-center">
                                     <div class="w-5 h-5 bg-white rounded-full me-2"></div>
-                                    <h2 className="text-2xl font-bold">ปริญญาตรี</h2>
+                                    <h2 className="text-2xl font-bold">ปริญญาตรี (ปัจจุบัน)</h2>
                                 </div>
                                 <p className="mt-2 ms-6">มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือ</p>
+                                <p className="mt-2 ms-6">ครุศาสตร์อุตสาหกรรม เทคโนโลยีคอมพิวเตอร์</p>
                             </div>
                         </div>
                         <div className="about-describe p-10 order-last bg-white shadow-xl  ">
