@@ -9,7 +9,12 @@ export default {
     daisyui: {
       themes: [],
     },
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'my-image': "url('../assets/bg-skill.jpg')",
+        'contact': "url('./assets/bg-contact.jpg')",
+      }
+    },
     fontSize: {
       sm: '0.8rem',
       base: '1rem',
