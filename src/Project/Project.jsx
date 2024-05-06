@@ -1,9 +1,7 @@
-import portfolio_1 from '../assets/portfolio1.jpg'
-import portfolio_2 from '../assets/portfolio2.jpg'
-import portfolio_3 from '../assets/portfolio3.jpg'
-import portfolio_5 from '../assets/portfolio5.jpg'
 import portfolio_6 from '../assets/portfolio6.png'
-import portfolio_7 from '../assets/portfolio7.png'
+import portfolio_6_2 from '../assets/portfolio6.jpg'
+import portfolio_7_2 from '../assets/portfolio7.jpg'
+import portfolio_4 from '../assets/portfolio4.jpg'
 import portfolio_8 from '../assets/portfolio8.png'
 import portfolio_9 from '../assets/portfolio9.png'
 
@@ -14,6 +12,71 @@ function Project (){
            <div className="max-w-screen-xl  mx-auto md:p-4 justify-center" id="project">
                 <h1 className="text-4xl font-bold text-center mt-5 mb-5">ผลงานต่าง ๆ</h1>
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 place-items-center ">
+                <div className="w-100 md:w-96 bg-base-100 shadow-md  m-5">  
+                        <figure><img src={portfolio_7_2} alt="Happy_Senior_website" /></figure>
+                            <div className="card-body">
+                                <h2 className="card-title">
+                                InfiniteScroll Website
+                         
+                                <div className="badge bg-red-400 text-white">ใหม่</div>
+                                </h2>
+                                <p>เว็บไซต์แบบไร้รอยต่อโดยดึงข้อมูลจาก API</p>
+                                <div className="card-actions justify-end">
+                                    <div className="badge bg-red-100">React</div> 
+                                    <div className="badge ">Tailwind</div>
+                                    <div className="badge ">API</div>
+                                </div>
+                                <div className="card-btn flex  mt-2">
+                                    <a href="https://nrcdev751.github.io/E-commerce-Dashboard/" target="_blank" className="btn btn-block  bg-gradient-to-r from-cyan-500 to-blue-500 text-white ">
+                                    <svg className="h-5 w-5 fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg>
+                                    เข้าชม
+                                    </a>
+                                </div>
+                            </div>
+                    </div>
+                <div className="w-100 md:w-96 bg-base-100 shadow-md  m-5">  
+                        <figure><img src={portfolio_6_2} alt="Happy_Senior_website" /></figure>
+                            <div className="card-body">
+                                <h2 className="card-title">
+                                แดชบอร์ดร้านขายของ
+                         
+                                <div className="badge bg-red-400 text-white">ใหม่</div>
+                                </h2>
+                                <p>ออกแบบ Dashboard สำหรับร้านขายของโดยใช้ MUI ในการช่วยออกแบบ</p>
+                                <div className="card-actions justify-end">
+                                    <div className="badge bg-red-100">React</div> 
+                                    <div className="badge ">Tailwind</div>
+                                    <div className="badge ">MUI</div>
+                                </div>
+                                <div className="card-btn flex  mt-2">
+                                    <a href="https://nrcdev751.github.io/E-commerce-Dashboard/" target="_blank" className="btn btn-block  bg-gradient-to-r from-cyan-500 to-blue-500 text-white ">
+                                    <svg className="h-5 w-5 fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg>
+                                    เข้าชม
+                                    </a>
+                                </div>
+                            </div>
+                    </div>
+                <div className="w-100 md:w-96 bg-base-100 shadow-md  m-5">  
+                        <figure><img src={portfolio_4} alt="Happy_Senior_website" /></figure>
+                            <div className="card-body">
+                                <h2 className="card-title">
+                                เว็บบทความสำหรับเกมเมอร์
+                         
+                                <div className="badge bg-red-400 text-white">ใหม่</div>
+                                </h2>
+                                <p>แพลตฟอร์มรวบรวมบทความของเหล่าเกมเมอร์ รองรับฟังก์ชั่นการสลับธีมและพัฒนาโดย ReactJS</p>
+                                <div className="card-actions justify-end">
+                                    <div className="badge bg-red-100">React</div> 
+                                    <div className="badge ">Tailwind</div>
+                                </div>
+                                <div className="card-btn flex  mt-2">
+                                    <a href="https://nrcdev751.github.io/Blog-Platform/" target="_blank" className="btn btn-block  bg-gradient-to-r from-cyan-500 to-blue-500 text-white ">
+                                    <svg className="h-5 w-5 fill-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><path d="M73 39c-14.8-9.1-33.4-9.4-48.5-.9S0 62.6 0 80V432c0 17.4 9.4 33.4 24.5 41.9s33.7 8.1 48.5-.9L361 297c14.3-8.7 23-24.2 23-41s-8.7-32.2-23-41L73 39z"/></svg>
+                                    เข้าชม
+                                    </a>
+                                </div>
+                            </div>
+                    </div>
                     <div className="w-100 md:w-96 bg-base-100 shadow-md  m-5">  
                         <figure><img src={portfolio_9} alt="Happy_Senior_website" /></figure>
                             <div className="card-body">
@@ -54,11 +117,12 @@ function Project (){
                                 </div>
                             </div>
                     </div>
+                    
                     <div className="w-100 md:w-96 bg-base-100 shadow-md  m-5">  
                         <figure><img src={portfolio_8} alt="Happy_Senior_website" /></figure>
                             <div className="card-body">
                                 <h2 className="card-title">
-                                เว็บแอพพลิเคชั่นเพื่อผู้สูงอายุ
+                                กล่องรับฟังความคิดเห็นออนไลน์
                          
                                 </h2>
                                 <p>ระบบรับฟังความคิดเห็นจากน้อง ๆ ภายในแผนกวิชาเพื่อนำความคิดเห็นต่าง ๆ ส่งไปยังคุณครูภายในแผนกโดยใช้ระบบ Php + Line Notify</p>
@@ -74,6 +138,7 @@ function Project (){
                                 </div>
                             </div>
                     </div>
+                    
                    
                   
                 </div>
